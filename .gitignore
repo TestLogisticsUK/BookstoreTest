@@ -6,3 +6,5 @@
 /BookStoreAutomationTest/bin/Debug/netcoreapp3.1
 /BookStoreAutomationTest/.vs/BookStoreAutomationTest
 /BookStoreAutomationTest/obj
+/obj
+/bin/Debug/netcoreapp3.1
